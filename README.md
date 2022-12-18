@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Heart Murmurs](https://github.com/fablaw/circor)
 
-- 🌱 I’m currently learning **TensorFlow**
+- 🌱 Currently I am learning **TensorFlow**
 
 - 💬 Ask me about **PDEs, Symbolic Python (SymPy)**
 
