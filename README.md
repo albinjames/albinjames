@@ -1,5 +1,5 @@
 <h1 align="center">Hey there! 👋 My name is Albin</h1>
-<h3 align="center">Looking forward to a career in Data Science</h3>
+<h3 align="center">I look forward to a career in Data Science</h3>
 
 - 🔭 I’m currently working on [Heart Murmurs](https://github.com/fablaw/circor)
 
