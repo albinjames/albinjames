@@ -1,15 +1,15 @@
-<h1 align="center">Hey there! 👋, I'm Albin</h1>
+<h1 align="center">Hey there! 👋 My name is Albin</h1>
 <h3 align="center">Looking forward to a career in Data Science</h3>
 
 - 🔭 I’m currently working on [Heart Murmurs](https://github.com/fablaw/circor)
 
 - 🌱 I’m currently learning **TensorFlow**
 
-- 💬 Ask me about **PDEs, SymPy**
+- 💬 Ask me about **PDEs, Symbolic Python (SymPy)**
 
 - 📫 How to reach me **jamesalbin44@gmail.com**
 
-- ⚡ Fun fact **I love doing the dishes and doing the groceries**
+- ⚡ Fun fact **These days I love doing the dishes and doing the groceries**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
