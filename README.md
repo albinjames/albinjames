@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **PDEs, Symbolic Python (SymPy), Signal Processing**
 
-- 📫 How to reach me: **jamesalbin44@gmail.com**
+- 📫 How to reach me: **jamesalbin44 at gmail.com**
 
 - ⚡ Fun fact about self: **These days I love doing the dishes and doing the groceries**
 
