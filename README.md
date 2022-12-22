@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working on [Heart Murmurs](https://github.com/fablaw/circor), a project to detect heart anomalies using sound signals, i.e. phonocardiogram recordings
 
-- 🌱 Currently I am learning **TensorFlow**
+- 🌱 Currently I am learning **TensorFlow, XGBoost, and Ensemble Empirical Mode Decomposition**
 
 - 💬 Ask me about **PDEs, Symbolic Python (SymPy), Signal Processing**
 
-- 📫 How to reach me **jamesalbin44@gmail.com**
+- 📫 How to reach me: **jamesalbin44@gmail.com**
 
-- ⚡ Fun fact **These days I love doing the dishes and doing the groceries**
+- ⚡ Fun fact about self: **These days I love doing the dishes and doing the groceries**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
