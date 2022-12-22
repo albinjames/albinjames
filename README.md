@@ -1,11 +1,11 @@
 <h1 align="center">Hey there! 👋 My name is Albin</h1>
 <h3 align="center">I look forward to a career in Data Science</h3>
 
-- 🔭 I’m currently working on [Heart Murmurs](https://github.com/fablaw/circor)
+- 🔭 I’m currently working on a project to detect heart anomalies using sound signals, i.e. phonocardiogram recordings: [Heart Murmurs](https://github.com/fablaw/circor)
 
 - 🌱 Currently I am learning **TensorFlow**
 
-- 💬 Ask me about **PDEs, Symbolic Python (SymPy)**
+- 💬 Ask me about **PDEs, Symbolic Python (SymPy), Signal Processing**
 
 - 📫 How to reach me **jamesalbin44@gmail.com**
 
