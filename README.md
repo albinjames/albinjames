@@ -1,5 +1,5 @@
-<h1 align="center">Hey there! 👋 My name is Albin</h1>
-<h3 align="center">I look forward to a career in Data Science</h3>
+<h1 align="center">Hey there! 👋 </h1>
+
 
 - 🔭 I’m currently working on [Heart Murmurs](https://github.com/fablaw/circor), a project to detect heart anomalies using sound signals, i.e. phonocardiogram recordings
 
@@ -11,6 +11,7 @@
 
 - ⚡ Fun fact about self: **These days I love doing the dishes and doing the groceries**
 
+<h3 align="center">I look forward to a career in Data Science</h3>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://kaggle.com/fermion44" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="fermion44" height="30" width="40" /></a>
