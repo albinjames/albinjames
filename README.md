@@ -2,7 +2,9 @@
 
 With a PhD in theoretical physics and recently trained in Data Science at the Le Wagon full-time bootcamp Paris, I am passionate about machine
 learning and applied mathematics. I am looking for a role as a data analyst/scientist in order to put my know-how into practice in a
-professional environment. The mechanical and the biomedical engineering sectors are especially attractive to me.
+professional environment.
+
+<!--The mechanical and the biomedical engineering sectors are especially attractive to me.-->
 
 My intention is to continue to learn and grow in this ever-changing data landscape!
 
