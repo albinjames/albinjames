@@ -1,5 +1,8 @@
 <h1 align="center">Hey there! 👋 </h1>
 
+With a PhD in theoretical physics and recently trained in data science at the Le Wagon full-time bootcamp Paris, I am passionate about machine
+learning and applied mathematics. I am looking for a role as a data scientist in order to put my know-how into practice in a
+professional environment. The mechanical and the biomedical engineering sectors are especially attractive to me. My intention is to continue to learn and grow in this ever-changing data landscape!
 
 - 🔭 I’m currently working on [Heart Murmurs](https://github.com/fablaw/circor), a project to detect heart anomalies using sound signals, i.e. phonocardiogram recordings
 
@@ -11,7 +14,7 @@
 
 - ⚡ Fun fact about self: **These days I love doing the dishes and doing the groceries**
 
-<h3 align="center">I look forward to a career in Data Science</h3>
+<h3 align="center">I look forward to a career in Data Science!</h3>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://kaggle.com/fermion44" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="fermion44" height="30" width="40" /></a>
