@@ -10,7 +10,7 @@ My intention is to continue to learn and grow in this ever-changing data landsca
 
 - 🔭 I’m currently working on [Heart Murmurs](https://github.com/fablaw/circor), a project to detect heart anomalies using sound signals, i.e. phonocardiograms (PCG)
 
-- 🌱 Currently I am learning **TensorFlow, XGBoost, and Ensemble Empirical Mode Decomposition**
+- 🌱 Currently I am learning **TensorFlow, XGBoost, Complex Wavelet Transforms, and Ensemble Empirical Mode Decomposition**
 
 - 💬 Ask me about **PDEs, Symbolic Python (SymPy), Signal Processing**
 
