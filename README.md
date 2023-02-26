@@ -1,6 +1,6 @@
 <h1 align="center">Hey there!! 👋 </h1>
 
-With a PhD in theoretical physics and recently trained in Data Science at the Le Wagon full-time bootcamp Paris, I am passionate about machine
+Trained in Data Science at the Le Wagon full-time bootcamp Paris, and with a PhD in theoretical physics, I am passionate about machine
 learning and applied mathematics. I am looking for a role as a data analyst/scientist in order to put my know-how into practice in a
 professional environment. Industrial and medical applications are particularly interesting to me.
 
