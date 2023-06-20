@@ -16,7 +16,7 @@ My intention is to continue to learn and grow in this ever-changing data landsca
 
 - 📫 How to reach me: **jamesalbin44 at gmail.com** or my [LinkedIn](https://www.linkedin.com/in/albinjames1729/)
 
-- ⚡ "Fun fact" about self: **These days one of my favourite actitivies is doing the groceries. It blends well with an evening walk :)**
+- ⚡ "Fun fact" about self: **These days one of my favourite actitivies is doing the groceries. It blends well with an evening walk and some cool podcasts:)**
 
 <h4 align="center">I look forward to a career in Data Science!</h4>
 <!--<h3 align="left">Connect with me:</h3>
