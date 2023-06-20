@@ -14,9 +14,9 @@ My intention is to continue to learn and grow in this ever-changing data landsca
 
 - A group project I was part of during the Le Wagon coding bootcamp: [Heart Murmurs](https://github.com/fablaw/circor), a project to detect heart anomalies using sound signals, i.e. phonocardiograms (PCG)
 
-- General Interests: **Bayesian methods, Hamiltonian MCMC, Probabilistic Programming**
+- Curious about **Bayesian methods, Hamiltonian MCMC, Probabilistic Programming, Numerical Methods**
 
-- 💬 Ask me about **PDEs, Symbolic Python (SymPy), Signal Processing**
+- 💬 Ask me about **PDEs, Symbolic Python (SymPy), Time Series/Signal Processing**
 
 - 📫 How to reach me: **james.albin44 at gmail.com** or my [LinkedIn](https://www.linkedin.com/in/albinjames1729/)
 
