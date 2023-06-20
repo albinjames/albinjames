@@ -10,7 +10,7 @@ My intention is to continue to learn and grow in this ever-changing data landsca
 
 - 🦬 I’m currently working on a *Wind Forecasting* project for Jena, Germany (Time series, Support vector regression, Fuzzy inference, Genetic algorithm)
 
-- 🌱 Currently I am learning **TensorFlow, [sktime](https://github.com/sktime/sktime), [Complex Wavelet Transforms](https://people.math.sc.edu/blanco/IMI/DTCWT0.pdf), and [julia](https://julialang.org/learning/tutorials/)**
+- 🌱 Currently I am learning **[TensorFlow](https://www.tensorflow.org/tutorials/quickstart/advanced), [sktime](https://github.com/sktime/sktime), [Complex Wavelet Transforms](https://people.math.sc.edu/blanco/IMI/DTCWT0.pdf), and [julia](https://julialang.org/learning/tutorials/)**
 
 - 🤗 A group project I was part of during the [Le Wagon coding bootcamp](https://www.lewagon.com/fr/data-science-course): [Heart Murmurs](https://github.com/fablaw/circor), to detect heart anomalies using sound signals, i.e. [phonocardiograms (PCG)](https://physionet.org/content/circor-heart-sound/1.0.3/)
 
@@ -20,7 +20,7 @@ My intention is to continue to learn and grow in this ever-changing data landsca
 
 - 📫 How to reach me: **james.albin44 at gmail.com**, my [LinkedIn](https://www.linkedin.com/in/albinjames1729/) or [Twitter](https://twitter.com/albinjames)
 
-- 😖 A "Fun fact" about myself: These days one of my favourite actitivies is doing the groceries. It blends well with an evening walk and some cool podcasts :)
+- 😖 A "*fun fact*" about myself: These days one of my favourite actitivies is doing the groceries. It blends well with an evening walk and some cool podcasts :)
 
 
 
