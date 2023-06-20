@@ -8,19 +8,19 @@ professional environment. Industrial and medical applications are particularly i
 
 My intention is to continue to learn and grow in this ever-changing data landscape!
 
-- 🔭 I’m currently working on a *Wind Forecasting* project for Jena, Germany (Time series, Support vector regression, Fuzzy inference, Genetic algorithm)
+- 🦬 I’m currently working on a *Wind Forecasting* project for Jena, Germany (Time series, Support vector regression, Fuzzy inference, Genetic algorithm)
 
-- 🌱 Currently I am learning **TensorFlow, sktime, Complex Wavelet Transforms, and Julia**
+- 🌱 Currently I am learning **TensorFlow, [sktime](https://github.com/sktime/sktime), [Complex Wavelet Transforms](https://people.math.sc.edu/blanco/IMI/DTCWT0.pdf), and [julia](https://julialang.org/learning/tutorials/)**
 
-- A group project I was part of during the Le Wagon coding bootcamp: [Heart Murmurs](https://github.com/fablaw/circor), a project to detect heart anomalies using sound signals, i.e. phonocardiograms (PCG)
+- 🤗 A group project I was part of during the [Le Wagon coding bootcamp](https://www.lewagon.com/fr/data-science-course): [Heart Murmurs](https://github.com/fablaw/circor), to detect heart anomalies using sound signals, i.e. phonocardiograms (PCG)
 
-- Curious about **Bayesian methods, Hamiltonian MCMC, Probabilistic Programming, Numerical Methods**
+- 👾 Curious about **Bayesian Methods, [Hamiltonian MCMC (Markov chain Monte Carlo)](https://arogozhnikov.github.io/2016/12/19/markov_chain_monte_carlo.html), Probabilistic Programming, Numerical Methods**
 
-- 💬 Ask me about **PDEs, Symbolic Python (SymPy), Time Series/Signal Processing**
+- 💬 Ask me about **PDEs, (Symbolic Python (SymPy)](https://www.sympy.org/), Time Series/Signal Processing**
 
-- 📫 How to reach me: **james.albin44 at gmail.com** or my [LinkedIn](https://www.linkedin.com/in/albinjames1729/)
+- 📫 How to reach me: **james.albin44 at gmail.com**, my [LinkedIn](https://www.linkedin.com/in/albinjames1729/) or [Twitter](https://twitter.com/albinjames)
 
-- ⚡ "Fun fact" about self: These days one of my favourite actitivies is doing the groceries. It blends well with an evening walk and some cool podcasts :)
+- 😖 A "Fun fact" about myself: These days one of my favourite actitivies is doing the groceries. It blends well with an evening walk and some cool podcasts :)
 
 
 
