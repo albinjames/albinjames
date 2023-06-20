@@ -14,7 +14,7 @@ My intention is to continue to learn and grow in this ever-changing data landsca
 
 - 🤗 A group project I was part of during the [Le Wagon coding bootcamp](https://www.lewagon.com/fr/data-science-course): [Heart Murmurs](https://github.com/fablaw/circor), to detect heart anomalies using sound signals, i.e. [phonocardiograms (PCG)](https://physionet.org/content/circor-heart-sound/1.0.3/)
 
-- 👾 Curious about **Bayesian Methods, [Hamiltonian MCMC (Markov chain Monte Carlo)](https://arogozhnikov.github.io/2016/12/19/markov_chain_monte_carlo.html), Probabilistic Programming, Numerical Methods**
+- 👾 Curious about **Bayesian Methods, [Hamiltonian MCMC (Markov chain Monte Carlo)](https://arogozhnikov.github.io/2016/12/19/markov_chain_monte_carlo.html), Probabilistic Programming, Numerical Methods (eg. [FEM](https://www.jousefmurad.com/fem/), [Dynamical Systems](https://uvadlc-notebooks.readthedocs.io/en/latest/tutorial_notebooks/DL2/Dynamical_systems/dynamical_systems_neural_odes.html))**
 
 - 💬 Ask me about **PDEs, (Symbolic Python (SymPy)](https://www.sympy.org/), Time Series/Signal Processing**
 
