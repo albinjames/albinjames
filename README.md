@@ -16,7 +16,7 @@ My intention is to continue to learn and grow in this ever-changing data landsca
 
 - 👾 Curious about **Bayesian Methods, [Hamiltonian MCMC (Markov chain Monte Carlo)](https://arogozhnikov.github.io/2016/12/19/markov_chain_monte_carlo.html), Probabilistic Programming, Numerical Methods (eg. [FEM](https://www.jousefmurad.com/fem/), [Dynamical Systems](https://uvadlc-notebooks.readthedocs.io/en/latest/tutorial_notebooks/DL2/Dynamical_systems/dynamical_systems_neural_odes.html))**
 
-- 💬 Ask me about **PDEs, (Symbolic Python (SymPy)](https://www.sympy.org/), Time Series/Signal Processing**
+- 💬 Ask me about **PDEs, [(Symbolic Python (SymPy)](https://www.sympy.org/), Time Series/Signal Processing**
 
 - 📫 How to reach me: **james.albin44 at gmail.com**, my [LinkedIn](https://www.linkedin.com/in/albinjames1729/) or [Twitter](https://twitter.com/albinjames)
 
