@@ -12,7 +12,7 @@ My intention is to continue to learn and grow in this ever-changing data landsca
 
 - 🌱 Currently I am learning **TensorFlow, [sktime](https://github.com/sktime/sktime), [Complex Wavelet Transforms](https://people.math.sc.edu/blanco/IMI/DTCWT0.pdf), and [julia](https://julialang.org/learning/tutorials/)**
 
-- 🤗 A group project I was part of during the [Le Wagon coding bootcamp](https://www.lewagon.com/fr/data-science-course): [Heart Murmurs](https://github.com/fablaw/circor), to detect heart anomalies using sound signals, i.e. phonocardiograms (PCG)
+- 🤗 A group project I was part of during the [Le Wagon coding bootcamp](https://www.lewagon.com/fr/data-science-course): [Heart Murmurs](https://github.com/fablaw/circor), to detect heart anomalies using sound signals, i.e. [phonocardiograms (PCG)](https://physionet.org/content/circor-heart-sound/1.0.3/)
 
 - 👾 Curious about **Bayesian Methods, [Hamiltonian MCMC (Markov chain Monte Carlo)](https://arogozhnikov.github.io/2016/12/19/markov_chain_monte_carlo.html), Probabilistic Programming, Numerical Methods**
 
