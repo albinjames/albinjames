@@ -24,7 +24,6 @@ My intention is to continue to learn and grow in this ever-changing data landsca
 
 
 
-<h4 align="center">I look forward to a career in Data Science!</h4>
 <!--<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://kaggle.com/fermion44" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="fermion44" height="30" width="40" /></a>
@@ -68,8 +67,9 @@ My intention is to continue to learn and grow in this ever-changing data landsca
 
 
 
-<h2 align="center">  Thanks for stopping by!  </h2>
+<h3 align="center">  Thanks for stopping by!  </h3>
 
 
 <!--<h2 align="center">  Thanks for stopping by!  </h2> !>
 
+<!--<h4 align="center">I look forward to a career in Data Science!</h4> !>
