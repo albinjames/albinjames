@@ -61,7 +61,7 @@ My intention is to continue to learn and grow in this ever-changing data landsca
   <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="gcp" width="40" height="40" style="margin-right: 10px"/>
   </a>
-  <a href="https://getfedora.org" target="_blank" rel="noreferrer">
+  <a href="https://start.fedoraproject.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fedora/fedora-original.svg" alt="fedora" width="40" height="40" style="margin-right: 10px"/>
  
 
