@@ -8,7 +8,7 @@ professional environment. Industrial and medical applications are particularly i
 
 My intention is to continue to learn and grow in this ever-changing data landscape!
 
-- 🦬 I’m exploring a *Wind Forecast* project for Jena, Germany (Multivariate Time series, Support vector regression, Fuzzy inference, Genetic algorithm). Focussing on the Fuzzy Inference System currently
+- 🦬 I’m exploring a [*Wind Forecast* project](https://www.sciencedirect.com/science/article/abs/pii/S0306261918307360) for [Jena, Germany](https://www.bgc-jena.mpg.de/wetter/) (Multivariate Time series, Support vector regression, [Fuzzy inference](https://towardsdatascience.com/a-short-tutorial-on-fuzzy-time-series-dcc6d4eb1b15), Genetic algorithm). Focussing on the Fuzzy Inference System using the [pyFTS library](https://github.com/PYFTS/pyFTS) at the moment
 
 - 🌱 Currently I am learning **[TensorFlow](https://www.tensorflow.org/tutorials/quickstart/advanced), [sktime](https://github.com/sktime/sktime), [Complex Wavelet Transforms](https://people.math.sc.edu/blanco/IMI/DTCWT0.pdf), and [julia](https://julialang.org/learning/tutorials/)**
 
