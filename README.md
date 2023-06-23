@@ -8,7 +8,7 @@ professional environment. Industrial and medical applications are particularly i
 
 My intention is to continue to learn and grow in this ever-changing data landscape!
 
-- 🦬 I’m currently working on a *Wind Forecasting* project for Jena, Germany (Time series, Support vector regression, Fuzzy inference, Genetic algorithm)
+- 🦬 I’m exploring a *Wind Forecast* project for Jena, Germany (Multivariate Time series, Support vector regression, Fuzzy inference, Genetic algorithm). Focussing on the Fuzzy Inference System currently
 
 - 🌱 Currently I am learning **[TensorFlow](https://www.tensorflow.org/tutorials/quickstart/advanced), [sktime](https://github.com/sktime/sktime), [Complex Wavelet Transforms](https://people.math.sc.edu/blanco/IMI/DTCWT0.pdf), and [julia](https://julialang.org/learning/tutorials/)**
 
@@ -44,7 +44,7 @@ My intention is to continue to learn and grow in this ever-changing data landsca
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Mathematica_Logo.svg/512px-Mathematica_Logo.svg.png" alt="wolfram" width="40" height="40" style="margin-right: 10px"/>
   </a>
   <a href="https://www.cplusplus.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" style="margin-right: 10px"/>
+    <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" alt="cplusplus" width="40" height="40" style="margin-right: 10px"/>
   </a>
 </p>
 
