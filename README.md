@@ -1,4 +1,4 @@
-<h1 align="center">Hey there!! 👋 </h1>
+<h1 align="center">Hello there!! 👋 </h1>
 
 Trained in Data Science at the Le Wagon full-time bootcamp Paris, and with a PhD in theoretical physics, I am passionate about machine
 learning and applied mathematics. I am looking for a role as a data analyst/scientist in order to put my know-how into practice in a
