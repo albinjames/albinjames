@@ -52,6 +52,10 @@ My intention is to continue to learn and grow in this ever-changing data landsca
   <a href="https://scikit-learn.org" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="48" height="48" style="margin-right: 10px"/>
   </a>
+   <a href="https://pytorch.org/tutorials/" target="_blank" rel="noreferrer">
+    <img src="  https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/PyTorch_logo_icon.svg/496px-PyTorch_logo_icon.svg.png
+" alt="PyTorch" width="48" height="48" style="margin-right: 10px"/>
+  </a>
   <a href="https://www.scipy.org" target="_blank" rel="noreferrer">
     <img src="https://scipy.org/images/logo.svg" alt="scipy" width="40" height="40" style="margin-right: 10px"/>
   </a>
