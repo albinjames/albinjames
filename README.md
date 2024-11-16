@@ -1,12 +1,9 @@
 <h1 align="center">Hello there!! 👋 </h1>
 
-Trained in Data Science at the Le Wagon full-time bootcamp Paris, and with a PhD in theoretical physics, I am passionate about machine
-learning and applied mathematics. I am looking for a role as a data analyst/scientist in order to put my know-how into practice in a
-professional environment. Industrial and medical applications are particularly interesting to me.
-
+Currently I work as a data scientist in Computer Vision at Expleo Group, which specialises in engineering consulting. Trained in Data Science at the Le Wagon full-time bootcamp Paris, and with a PhD in theoretical physics, I am passionate about machine learning and applied mathematics. I am looking for a role as a data analyst/scientist in order to put my know-how into practice in a professional environment. Industrial and medical applications are particularly interesting to me.
 <!--The mechanical and the biomedical engineering sectors are especially attractive to me.-->
 
-My intention is to continue to learn and grow in this ever-changing data landscape!
+My intention is to continue to learn and grow in this ever-changing data landscape! Here I present some aspects disentangled from my work projects:
 
 - 🦬 I’m exploring a [*Wind Forecast* project](https://www.sciencedirect.com/science/article/abs/pii/S0306261918307360) for [Jena, Germany](https://www.bgc-jena.mpg.de/wetter/) (Multivariate Time series, Support vector regression, [Fuzzy inference](https://towardsdatascience.com/a-short-tutorial-on-fuzzy-time-series-dcc6d4eb1b15), Genetic algorithm). Focussing on the Fuzzy Inference System using the [pyFTS library](https://github.com/PYFTS/pyFTS) at the moment
 
