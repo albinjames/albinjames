@@ -53,10 +53,10 @@ My intention is to continue to learn and grow in this ever-changing data landsca
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="48" height="48" style="margin-right: 10px"/>
   </a>
    <a href="https://pytorch.org/tutorials/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" alt="PyTorch" width="48" height="44" style="margin-right: 10px"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" alt="PyTorch" width="44" height="44" style="margin-right: 10px"/>
   </a>
    <a href="https://www.tensorflow.org/tutorials" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/TensorFlow_logo.svg" alt="TensorFlow" width="48" height="44" style="margin-right: 10px"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/TensorFlow_logo.svg" alt="TensorFlow" width="48" height="48" style="margin-right: 10px"/>
   </a>
   <a href="https://www.scipy.org" target="_blank" rel="noreferrer">
     <img src="https://scipy.org/images/logo.svg" alt="scipy" width="40" height="40" style="margin-right: 10px"/>
