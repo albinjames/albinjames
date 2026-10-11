@@ -1,9 +1,10 @@
 <h1 align="center">Hello there!! 👋 </h1>
 
-Currently I work as a data scientist in Computer Vision at Expleo Group, which specialises in engineering consulting. Trained in Data Science at the Le Wagon full-time bootcamp Paris, and with a PhD in theoretical physics, I am passionate about machine learning and applied mathematics. I am looking for a role as a data analyst/scientist in order to put my know-how into practice in a professional environment. Industrial and medical applications are particularly interesting to me.
-<!--The mechanical and the biomedical engineering sectors are especially attractive to me.-->
+Currently I work as a data scientist in Computer Vision and Time Series Forecasting at an engineering consulting firm.  I did my PhD in theoretical high energy physics from the University of Southern California, Los Angeles. It was primarily about understanding the lowest order (1-loop) quantum corrections to a model for fundamental interactions called bosonic open string field theory (OSFT). I did a 2 year post-doctoral work at the Laboratory of Theoretical and High Energy Physics (LPTHE), Paris. This was primarily about quantum corrections in a 3-dimensional quantum field theory as well as exploration of a particular 2 dimensional conformal field theory (the one corresonding to the tricritical Ising model in statistic physics).
 
-My intention is to continue to learn and grow in this ever-changing data landscape! Here I present some aspects disentangled from my work projects:
+<!--I am passionate about machine learning and applied mathematics. The mechanical and the biomedical engineering sectors are especially attractive to me.-->
+
+Subsequently I transitioned to data science through training at the Le Wagon full-time bootcamp, Paris. My intention is to continue to learn and grow in this ever-changing data landscape! Industrial and medical applications are particularly interesting to me. Here I present some aspects disentangled from my work projects:
 
 - 🦬 I’m exploring a [*Wind Forecast* project](https://www.sciencedirect.com/science/article/abs/pii/S0306261918307360) for [Jena, Germany](https://www.bgc-jena.mpg.de/wetter/) (Multivariate Time series, Support vector regression, [Fuzzy inference](https://towardsdatascience.com/a-short-tutorial-on-fuzzy-time-series-dcc6d4eb1b15), Genetic algorithm). Focussing on the Fuzzy Inference System using the [pyFTS library](https://github.com/PYFTS/pyFTS) at the moment
 
